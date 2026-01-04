@@ -1,0 +1,16 @@
+ALRS System Report - Test Case 1
+Operation: Truth Table Generation
+User Input Expression: (P | Q) & (P > R)
+Postfix Form: PQ|PR>&
+Variables Detected: P Q R
+TRUTH TABLE OUTPUT:
+P | Q | R | Result
+0 | 0 | 0 |   0
+0 | 0 | 1 |   0
+0 | 1 | 0 |   1
+0 | 1 | 1 |   0
+1 | 0 | 0 |   1
+1 | 0 | 1 |   1
+1 | 1 | 0 |   1
+1 | 1 | 1 |   1
+Status: Successfully Generated

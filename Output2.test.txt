@@ -1,0 +1,13 @@
+ALRS System Report - Test Case 2
+Operation: Argument Validation (Modus Tollens)
+Number of Premises: 2
+Premise 1 Input: P > Q
+Premise 2 Input: !Q
+Conclusion Input: !P
+VALIDATION LOGIC:
+Checking truth table rows...
+Scanning Premise variables... Found P, Q
+Scanning Conclusion variables... Found P
+Verifying implication for all 2^N combinations...
+FINAL VERDICT:
+Result: Valid Argument

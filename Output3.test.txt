@@ -1,0 +1,10 @@
+ALRS System Report - Test Case 3
+Operation: Equivalence Check (De Morgan's Law)
+Expression 1: !(P | Q)
+Expression 2: !P & !Q
+COMPARISON LOGIC:
+Converting Expr 1 to Postfix...
+Converting Expr 2 to Postfix...
+Comparing Result Column for all binary combinations...
+FINAL VERDICT:
+Result: Equivalent! Identical logic.
